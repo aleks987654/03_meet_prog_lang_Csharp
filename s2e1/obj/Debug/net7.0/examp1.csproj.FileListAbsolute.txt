@@ -1,0 +1,14 @@
+C:\GB\06\Sem2\examp1\bin\Debug\net7.0\examp1.exe
+C:\GB\06\Sem2\examp1\bin\Debug\net7.0\examp1.deps.json
+C:\GB\06\Sem2\examp1\bin\Debug\net7.0\examp1.runtimeconfig.json
+C:\GB\06\Sem2\examp1\bin\Debug\net7.0\examp1.dll
+C:\GB\06\Sem2\examp1\bin\Debug\net7.0\examp1.pdb
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\examp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\examp1.AssemblyInfoInputs.cache
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\examp1.AssemblyInfo.cs
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\examp1.csproj.CoreCompileInputs.cache
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\examp1.dll
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\refint\examp1.dll
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\examp1.pdb
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\examp1.genruntimeconfig.cache
+C:\GB\06\Sem2\examp1\obj\Debug\net7.0\ref\examp1.dll

@@ -1,0 +1,14 @@
+C:\GB\06\Lec2\examp4\bin\Debug\net7.0\examp4.exe
+C:\GB\06\Lec2\examp4\bin\Debug\net7.0\examp4.deps.json
+C:\GB\06\Lec2\examp4\bin\Debug\net7.0\examp4.runtimeconfig.json
+C:\GB\06\Lec2\examp4\bin\Debug\net7.0\examp4.dll
+C:\GB\06\Lec2\examp4\bin\Debug\net7.0\examp4.pdb
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\examp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\examp4.AssemblyInfoInputs.cache
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\examp4.AssemblyInfo.cs
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\examp4.csproj.CoreCompileInputs.cache
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\examp4.dll
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\refint\examp4.dll
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\examp4.pdb
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\examp4.genruntimeconfig.cache
+C:\GB\06\Lec2\examp4\obj\Debug\net7.0\ref\examp4.dll
