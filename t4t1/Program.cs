@@ -24,6 +24,7 @@ bool InputNumberIsCorrect(string? s)
 int GetSumOfDigitsOfNumber(int number)
 {
     int sum = 0;
+    number = Math.Abs(number);
     while ((number > 0))
     {
         sum = sum + number % 10;
