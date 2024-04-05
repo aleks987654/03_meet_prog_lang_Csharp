@@ -23,6 +23,7 @@ void IsPalindrome(string s)
     else Console.Write("Нет");
 }
 
+// **********     Тело программы     **********
 string input_str = "aBcD1ef!-";
 Console.WriteLine();
 IsPalindrome(input_str);
